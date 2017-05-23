@@ -4,6 +4,8 @@
 2. Channel Access Token を確保する
 3. Webhook URL を登録する
 
+----
+
 1. と 2. は調べてください。
 
 3. Webhook URL を登録する は *https* で通信である必要があります。
